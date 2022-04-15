@@ -46,7 +46,6 @@ set whichwrap=b,s,h,l,<,>,[,]
 syntax on
 " 
 imap <C-j> <esc>
-imap <C-j> <esc>
 inoremap <silent> jj <ESC>
 inoremap <silent> <C-[> <ESC>
 
